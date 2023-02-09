@@ -2,4 +2,7 @@ Name : Sonu Kumar Madheshiya
 Age : 23
 Branch : CSE
 Roll no : 49
+<<<<<<< HEAD
 PIN CODE : 274401
+=======
+>>>>>>> 0309d93143ad8b910805979c609c7d7a0097677f
